@@ -1,6 +1,7 @@
-# knowledgebase
-this is my knowledgebase,based on TiddlyWiki.
-## The main purpose
-For synchronizing and backing up my personal non-linear network notebook.
-I will take the time to complete the configuration in the future. I remember that TiddlyWiki has the option of "GitHub save". As long as that configuration is done, synchronization is not difficult, just automatic saving and some other shortcomings... I can only solve it myself. 
-Check out the Q&A on "What are the disadvantages of TiddlyWiki" on Zhihu.
+# Notebox
+
+This is fcjz's notebox,made by tiddlywiki.
+
+采用最简单的单HTML文件形式，非常好玩，在浏览器中运行良好。
+
+这个Wiki不仅仅是我的Wiki，也是我将要发布的TW发行版的示例。
