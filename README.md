@@ -1,7 +1,13 @@
 # Notebox
 
-This is fcjz's notebox,made by tiddlywiki.
+这是fcjz的notebox，译为便条箱，实际上，它是fcjz的数字花园。
 
-采用最简单的单HTML文件形式，非常好玩，在浏览器中运行良好。
+地基是TiddlyWiki和一些脚本，种子来源于笔者的想法和思考。
 
-这个Wiki不仅仅是我的Wiki，也是我将要发布的TW发行版的示例。
+以下是预览：
+
+![notebox](https://github.com/fcjz/notebox/blob/main/notebox.png)
+
+大概以后会拥有一个imfcjz.com的域名，那么这个花园的域名会是：imfcjz.com/notebox或者notebox.imfcjz.com。
+
+祝我好运，各位。
