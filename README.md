@@ -8,6 +8,8 @@
 
 ![notebox](https://github.com/fcjz/notebox/blob/main/notebox.png)
 
+![note](https://github.com/fcjz/notebox/blob/main/note.png)
+
 大概以后会拥有一个imfcjz.com的域名，那么这个花园的域名会是：imfcjz.com/notebox或者notebox.imfcjz.com。
 
 日后可能会根据现有的自定义推出一个TiddlyWiki模板（这算是发行版吗？）供大家使用，敬请期待。
