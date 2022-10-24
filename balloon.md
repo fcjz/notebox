@@ -1,12 +1,7 @@
 ---
-title: "Balloon"
+title: "Note"
 date: 2022-08-24T15:10:49+08:00
-draft: true
-type: "balloon"
-balloon_resources: "/post"
+draft: false
 ---
-this is a balloon 测试。
 
-对，就是测试。
-
-这就是一个测试。
+这是用于记录笔者对项目发展的规划的笔记，供来访者查看。
