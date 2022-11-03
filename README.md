@@ -29,3 +29,28 @@
 也许我应该专门添加一个“note”文件，来记录自己对于这个项目的规划。
 
 2022/10/29更新：目前notebox进入内测阶段，已设置为密码访问，待笔者将其完善后开放，时间不会很长。
+
+## 数字花园配置
+
+地基为TiddlyWiki，主题为whitespace。
+
+已安装插件：
+
+- Echart
+- checklist
+- click effect
+- CodeMirror系列
+- aggregation
+- favorite
+- fishing
+- help
+- hotzone
+- KaTeX
+- markdown
+- notion page系列
+- projectify
+- relink
+- shiraz
+- template list
+- todolist
+- appear
