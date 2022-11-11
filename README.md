@@ -44,7 +44,7 @@
 - CodeMirror系列
 - aggregation
 - favorite
-- fishing
+- fishing系列（包括渐进阅读）
 - help
 - hotzone
 - KaTeX
