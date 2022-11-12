@@ -69,3 +69,5 @@
 笔者的工作流与知识管理流程如下（这是两个月之前的图像，目前有所改变，改日会重新绘制一幅作为读者参考）：
 
 [knowledge](https://github.com/fcjz/notebox/blob/main/%E4%B8%AA%E4%BA%BA%E5%B7%A5%E4%BD%9C%E6%B5%81.png)
+
+如果你在notebox有了什么想要评论的内容，可以在这个仓库中提issue，笔者看到会回复的，不久笔者就会制作一个issue模板。
