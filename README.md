@@ -61,3 +61,9 @@
 封面图片（来源：pexels可商用图片）：
 
 [gray](https://github.com/fcjz/notebox/blob/main/pexels-photo-3490393-.png)
+
+花园主题：几乎所有东西，主要是哲学、设计、写作、编程、计算机之类，还包含日常的一些日记和各种各样的思考。
+
+碎片想法能够连接在一起形成的文章将被收录在[fcjz的blog](https://fcjz.github.io/blog)中，笔者建议将notebox和blog配合食用，效果更好。
+
+笔者的工作流与知识管理流程如下（这是两个月之前的图像，目前有所改变，改日会重新绘制一幅作为读者参考）：
