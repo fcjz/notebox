@@ -71,3 +71,7 @@
 [knowledge](https://github.com/fcjz/notebox/blob/main/%E4%B8%AA%E4%BA%BA%E5%B7%A5%E4%BD%9C%E6%B5%81.png)
 
 如果你在notebox有了什么想要评论的内容，可以在这个仓库中提issue，笔者看到会回复的，不久笔者就会制作一个issue模板。
+
+## 许可证
+
+本项目使用AGPL-3.0许可证。
