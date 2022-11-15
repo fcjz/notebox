@@ -52,7 +52,9 @@ notebox可以有3中使用方式：
 
 ## 使用notebox创建网站
 
-待补。
+单文件版可将HTML文件命名为index.html，使用git工具同步到网站仓库，使用GitHub pages生成静态网站。
+
+nodejs版等待补，这个笔者目前还没有尝试过。
 
 ## 项目发展愿景
 
