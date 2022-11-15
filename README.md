@@ -72,7 +72,7 @@ notebox可以有3中使用方式：
 
 地基为TiddlyWiki，主题为whitespace。
 
-已安装插件：
+已安装插件（截至2022/22/15，共计40个）：
 
 - Echart
 - checklist
@@ -93,6 +93,11 @@ notebox可以有3中使用方式：
 - todolist
 - appear
 - grb
+- Splash Screen
+- Respawn
+- locator
+- Command Palette
+- pinyin-fuzzy-search
 
 封面图片（来源：pexels可商用图片）：
 
