@@ -72,9 +72,9 @@ nodejs版等待补，这个笔者目前还没有尝试过。
 
 ## 数字花园配置
 
-地基为TiddlyWiki，主题为whitespace。
+地基为TiddlyWiki（最新版本5.2.3），主题为whitespace。
 
-已安装插件（截至2022/22/15，共计40个）：
+已安装插件（截至2022/11/16，共计50个，均为最新版本）：
 
 - Echart
 - checklist
@@ -100,6 +100,17 @@ nodejs版等待补，这个笔者目前还没有尝试过。
 - locator
 - Command Palette
 - pinyin-fuzzy-search
+- Aggregation
+- Diary
+- Emoji Button
+- encryptTiddler
+- HTML Button
+- ManageTOC
+- Mark Button
+- Page TOC
+- QuickNotes
+- Some shortcuts
+- Tiddler Commander
 
 封面图片（来源：pexels可商用图片）：
 
