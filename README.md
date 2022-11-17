@@ -1,5 +1,11 @@
 # Notebox
 
+<$link to="https://github.com/fcjz/notebox/blob/main/LICENSE.md"><<shield label:License status:AGPL-3.0>></$link>
+
+<$link to="https://github.com/fcjz/notebox/releases"><<shield label:Release status:0.0.1 colour:purple>></$link>
+
+<a href="https://tiddlywiki.com"><<shield label:~TiddlyWiki status:5.2.3+ colour:blue>></a>
+
 这是fcjz的notebox，译为便条箱，实际上，它是fcjz的数字花园。
 
 地基是TiddlyWiki和一些脚本，种子来源于笔者的想法和思考。
