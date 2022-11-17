@@ -1,5 +1,7 @@
 # Notebox
 
+[![Join the chat at https://gitter.im/fcjz/notebox](https://badges.gitter.im/fcjz/notebox.svg)](https://gitter.im/fcjz/notebox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 这是fcjz的notebox，译为便条箱，实际上，它是fcjz的数字花园。
 
 地基是TiddlyWiki和一些脚本，种子来源于笔者的想法和思考。
