@@ -1,5 +1,7 @@
 # Notebox
 
+[![Join the chat at https://gitter.im/fcjz/notebox](https://badges.gitter.im/fcjz/notebox.svg)](https://gitter.im/fcjz/notebox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <$link to="https://github.com/fcjz/notebox/blob/main/LICENSE.md"><<shield label:License status:AGPL-3.0>></$link>
 
 <$link to="https://github.com/fcjz/notebox/releases"><<shield label:Release status:0.0.1 colour:purple>></$link>
