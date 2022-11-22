@@ -88,7 +88,7 @@ nodejs版等待补，这个笔者目前还没有尝试过。
 
 地基为TiddlyWiki（最新版本5.2.3），主题为whitespace。
 
-已安装插件（截至2022/11/16，共计50个，均为最新版本）：
+已安装插件（截至2022/11/22，共计65个，均为最新版本）：
 
 - Echart
 - checklist
@@ -125,6 +125,21 @@ nodejs版等待补，这个笔者目前还没有尝试过。
 - QuickNotes
 - Some shortcuts
 - Tiddler Commander
+- pinboard
+- searchwikis
+- dynannotate
+- dynaview
+- feather-icons
+- hightlight
+- pikaday
+- QR Code
+- RefNotes
+- section editor
+- tamasha
+- tiddlywiki garden
+- timelines
+- trashbin
+- utility
 
 封面图片（来源：pexels可商用图片）：
 
