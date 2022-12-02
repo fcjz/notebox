@@ -170,3 +170,5 @@ nodejs版等待补，这个笔者目前还没有尝试过。
 主题WhiteSpace似乎与插件appear冲突，在同时安装两样时，从外部导入图片和其他文件时会出现尴尬的JavaScript内部错误。
 
 插件feather-icons在检索图标之后（或者之前）不能点击图标，会出现JavaScript内部错误，应该按照插件readme的命令使用羽毛图标。
+
+目前tw-whiteboard还无法正常使用，笔者正在努力修复中。
