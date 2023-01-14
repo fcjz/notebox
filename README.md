@@ -151,6 +151,8 @@ nodejs版等待补，这个笔者目前还没有尝试过。
 
 - sitemap
 
+- tiddly-giscus
+
 封面图片（来源：pexels可商用图片）：
 
 [gray](https://github.com/fcjz/notebox/blob/main/pexels-photo-3490393-.png)
